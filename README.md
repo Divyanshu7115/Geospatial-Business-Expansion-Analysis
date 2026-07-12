@@ -26,6 +26,11 @@ This project uses two datasets:
 
 These datasets were merged using the `customer_state` column to enable geospatial analysis.
 
+The dataset used in this project is publicly available on Kaggle.
+
+Download the dataset from:
+https://www.kaggle.com/datasets/davidafolayan/e-commerce-dataset
+
 ---
 
 ## 🛠️ Technologies Used
@@ -123,7 +128,7 @@ These metrics were used to measure prediction accuracy and model performance.
 
 ## 👨‍💻 Author
 
-**Anish Gupta**
+**Divyanshu Tiwari**
 
 AI/ML Engineer | Data Analytics | Full Stack Developer
 
